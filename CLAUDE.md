@@ -43,6 +43,10 @@ AX팀 시장 조사용 멀티 에이전트 뉴스 수집 시스템입니다.
 
 OpenAI, Anthropic, Perplexity, Google, Microsoft, NVIDIA, AWS, Alibaba, Cursor, Qwen, DeepSeek
 
+위 고정 기업 외에도, 관심 분야에서 다음 조건을 **모두** 충족하는 신규 기업/서비스가 발견되면 함께 수집합니다:
+- 주요 영문 매체(TechCrunch, VentureBeat 등) 2곳 이상에서 보도
+- 제품 출시, 기술 공개, 오픈소스 공개 등 구체적 사건이 있는 경우
+
 ## 제외 대상
 
 - 온디바이스 모델 / 모바일 AI 칩 기사
