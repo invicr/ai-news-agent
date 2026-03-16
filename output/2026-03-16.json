@@ -1,0 +1,145 @@
+[
+  {
+    "title": "NVIDIA GTC 2026 개막 — Jensen Huang 키노트, AI 풀스택 발표 예고",
+    "source": "NVIDIA Blog",
+    "published_date": "2026-03-16",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "why_relevant": "NVIDIA GTC 2026이 오늘 개막하며 Vera Rubin 플랫폼, 에이전틱 AI, 추론 인프라 등 핵심 발표가 예정됨",
+    "summary": [
+      "- NVIDIA GTC 2026이 3월 16~19일 산호세에서 개최되며, Jensen Huang CEO가 칩·소프트웨어·모델·애플리케이션을 아우르는 풀스택 키노트를 진행한다.",
+      "- OpenAI, Google DeepMind, Meta, Microsoft, Tesla 등이 메인 스테이지에 참여하며, 오픈 모델 패널에는 LangChain, A16Z, Cursor, Thinking Machines Lab 리더들이 참석한다."
+    ]
+  },
+  {
+    "title": "NVIDIA NemoClaw — 오픈소스 AI 에이전트 워크플로우 자동화 플랫폼 공개",
+    "source": "NVIDIA",
+    "published_date": "2026-03-16",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "why_relevant": "NVIDIA가 하드웨어 종속 없이 AI 에이전트를 구축·배포할 수 있는 오픈소스 플랫폼을 출시",
+    "summary": [
+      "- NVIDIA가 NemoClaw를 공개하여 기업들이 워크플로우 자동화용 AI 에이전트를 구축·배포할 수 있게 했다.",
+      "- NVIDIA 칩뿐 아니라 모든 하드웨어에서 작동하며, 오픈소스로 제공되어 에이전트 플랫폼 생태계 확장이 기대된다."
+    ]
+  },
+  {
+    "title": "Anthropic Claude Opus 4.6 & Sonnet 4.6 출시 — 100만 토큰 컨텍스트 베타",
+    "source": "Anthropic",
+    "published_date": "2026-03-16",
+    "url": "https://www.anthropic.com",
+    "why_relevant": "Anthropic이 최신 모델을 출시하며 100만 토큰 컨텍스트 윈도우를 베타로 제공, MS Office 통합도 발표",
+    "summary": [
+      "- Anthropic이 Claude Sonnet 4.6과 Opus 4.6을 출시하며 100만 토큰 컨텍스트 윈도우를 베타로 제공한다.",
+      "- Opus 4.6은 Microsoft PowerPoint와 Excel 애드인으로 동시 배포되어 업무 생산성 도구와의 직접 통합을 실현했다."
+    ]
+  },
+  {
+    "title": "OpenAI GPT-5.4 Thinking 모드 출시 — 중간 응답 수정 및 100만 토큰 지원",
+    "source": "OpenAI",
+    "published_date": "2026-03-16",
+    "url": "https://releasebot.io/updates/openai",
+    "why_relevant": "OpenAI가 사용자가 모델 응답 중간에 개입하여 방향을 수정할 수 있는 새로운 추론 모드를 출시",
+    "summary": [
+      "- OpenAI가 GPT-5.4 Thinking 모드를 출시하여 사용자가 모델 응답 중간에 개입해 답변 방향을 수정할 수 있게 했다.",
+      "- 최대 100만 토큰을 처리하며 문서, 스프레드시트, 코딩 작업에서 향상된 성능을 보인다."
+    ]
+  },
+  {
+    "title": "ChatGPT에서 Google·Microsoft 앱 쓰기 기능 지원 — 이메일, 문서 작성 가능",
+    "source": "OpenAI",
+    "published_date": "2026-03-16",
+    "url": "https://releasebot.io/updates/openai",
+    "why_relevant": "ChatGPT 내에서 Google·Microsoft 앱의 쓰기 작업(이메일 초안, 문서·시트 생성, 일정 관리)이 가능해짐",
+    "summary": [
+      "- OpenAI가 ChatGPT 내 Google 및 Microsoft 앱 통합에 쓰기(write) 기능을 추가했다.",
+      "- 이메일 초안 작성, 문서·스프레드시트 생성, 미팅 예약 등이 ChatGPT에서 직접 가능해져 업무 생산성 포털로서의 기능이 강화되었다."
+    ]
+  },
+  {
+    "title": "Google Gemini 3.1 Flash-Lite 출시 — 2.5배 빠른 응답, $0.25/M 입력 토큰",
+    "source": "Google",
+    "published_date": "2026-03-16",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "why_relevant": "Google이 효율성 중심의 경량 모델을 출시하여 추론 비용을 대폭 낮추고 응답 속도를 2.5배 향상",
+    "summary": [
+      "- Google이 Gemini 3.1 Flash-Lite를 출시하여 기존 대비 2.5배 빠른 응답 시간을 제공한다.",
+      "- 100만 입력 토큰당 $0.25의 초저가 가격 정책으로 모델 런타임 효율성 경쟁을 심화시킨다."
+    ]
+  },
+  {
+    "title": "DeepSeek V4 출시 — 1조 파라미터 멀티모달, Huawei Ascend 최적화로 NVIDIA 우회",
+    "source": "TechCrunch",
+    "published_date": "2026-03-16",
+    "url": "https://www.opensourceforu.com/2026/03/deepseeks-open-source-strategy-sidelines-nvidia-and-amd-ahead-of-v4-launch/",
+    "why_relevant": "DeepSeek이 1조 파라미터 오픈소스 멀티모달 모델을 출시하며, NVIDIA 대신 Huawei 칩에 최적화하여 지정학적 파급력이 큼",
+    "summary": [
+      "- DeepSeek V4가 1조 파라미터(활성 320억) 규모의 멀티모달 모델로 출시되었으며, 텍스트·이미지·비디오·오디오를 통합 처리한다.",
+      "- NVIDIA·AMD 대신 Huawei Ascend·Cambricon 칩에 최적화하여 공개했으며, 오픈소스 라이선스로 배포되어 글로벌 AI 하드웨어 판도에 영향을 줄 수 있다."
+    ]
+  },
+  {
+    "title": "Qwen 3.5 출시 — GPQA Diamond 88.4점, 최강 오픈소스 추론 모델",
+    "source": "Alibaba",
+    "published_date": "2026-03-16",
+    "url": "https://particula.tech/blog/deepseek-v4-qwen-open-source-ai-disruption",
+    "why_relevant": "Alibaba Qwen팀이 최강 오픈소스 추론 모델을 출시하며 Apache 2.0, 256K 컨텍스트, 201개 언어를 지원",
+    "summary": [
+      "- Alibaba Qwen 3.5(397B 총 파라미터, 17B 활성)가 MoE 아키텍처로 GPQA Diamond 88.4점을 기록하며 모든 오픈소스 모델을 능가했다.",
+      "- Apache 2.0 라이선스, 256K 네이티브 컨텍스트, 201개 언어 지원, 비전 기능을 탑재하여 엔터프라이즈 채택이 가속화되고 있다."
+    ]
+  },
+  {
+    "title": "Perplexity Computer 공개 — 19개 모델 병렬 오케스트레이션 디지털 워커",
+    "source": "Perplexity",
+    "published_date": "2026-03-16",
+    "url": "https://departmentofproduct.substack.com/p/perplexity-takes-on-claude-code-and",
+    "why_relevant": "Perplexity가 리서치·설계·코드·배포를 통합하는 클라우드 기반 에이전트 플랫폼을 출시하며 코딩 어시스턴트 시장에 진출",
+    "summary": [
+      "- Perplexity가 'Perplexity Computer'를 공개하여 브라우저 기반 멀티스텝 작업 실행이 가능한 디지털 워커를 제공한다.",
+      "- 19개 모델을 병렬 오케스트레이션하고 GPT-5.4, Claude Opus 4.6, Gemini 3.1 Pro를 동시 실행하는 Model Council 기능도 탑재했다."
+    ]
+  },
+  {
+    "title": "Cursor BugBot 정식 출시 — PR 버그 자동 탐지·수정, 수정 채택률 35%+",
+    "source": "Cursor",
+    "published_date": "2026-03-16",
+    "url": "https://www.sitepoint.com/ai-ides-compared-cursor-claude-code-cody-2026/",
+    "why_relevant": "Cursor의 코드 리뷰 에이전트 BugBot이 베타를 졸업하며, 클라우드 에이전트가 격리된 VM에서 자동으로 PR을 수정·테스트",
+    "summary": [
+      "- Cursor의 BugBot이 베타를 졸업하여 PR에서 로직 버그, 성능 이슈, 보안 취약점을 자동 스캔하고 클라우드 에이전트가 수정한다.",
+      "- 제안된 수정의 35% 이상이 수정 없이 머지되며, 해결률이 52%에서 70% 이상으로 상승했다."
+    ]
+  },
+  {
+    "title": "Amazon 90일 코드 안전 리셋 — AI 코딩 에이전트 Q로 인한 대규모 장애 후속 조치",
+    "source": "Creati AI",
+    "published_date": "2026-03-13",
+    "url": "https://creati.ai/ai-news/2026-03-13/amazon-90-day-code-safety-reset-ai-agent-retail-outages-2026/",
+    "why_relevant": "Amazon의 AI 코딩 에이전트가 리테일 인프라 장애를 유발하여 에이전트 코딩의 안전성 문제가 부각됨",
+    "summary": [
+      "- Amazon의 AI 코딩 어시스턴트 'Q'가 약 160만 건의 오류와 12만 건의 주문 손실을 유발하는 대규모 장애를 일으켰다.",
+      "- Amazon은 335개 핵심 Tier-1 시스템을 대상으로 90일간 코드 안전 리셋을 실시하여 AI 에이전트 코딩의 거버넌스 강화에 나섰다."
+    ]
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Super 출시 — 120B 하이브리드 Mamba-Transformer MoE, 1M 컨텍스트",
+    "source": "NVIDIA",
+    "published_date": "2026-03-16",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "why_relevant": "NVIDIA가 Mamba-Transformer 하이브리드 아키텍처의 120B 오픈소스 모델을 출시하며 추론 효율성을 2.2배 향상",
+    "summary": [
+      "- NVIDIA가 Nemotron 3 Super를 출시했으며, 120B 하이브리드 Mamba-Transformer MoE 구조에 활성 파라미터 12B, 100만 토큰 컨텍스트를 지원한다.",
+      "- 기존 대비 2.2배 처리량을 달성하여 대규모 추론 워크로드에서의 효율성을 크게 개선했다."
+    ]
+  },
+  {
+    "title": "OpenAI 의장 브렛 테일러, AI 코딩에 '감정적으로 어렵다' 토로",
+    "source": "blogaihub",
+    "published_date": "2026-03-16",
+    "url": "https://trends.blogaihub.com/2026/03/3-16-ai-openai-ai.html",
+    "why_relevant": "OpenAI 이사회 의장이 AI 코딩 도구의 존재에도 직접 코딩을 선호한다고 밝혀 AI 코딩 도구 채택의 심리적 장벽을 조명",
+    "summary": [
+      "- OpenAI 이사회 의장 브렛 테일러가 AI 코딩 도구의 존재에도 직접 코드 작성을 선호하며 AI에 코드를 맡기는 것이 '감정적으로 어렵다'고 밝혔다.",
+      "- GDC 설문에서도 응답자 7%만이 생성형 AI가 업계에 긍정적이라 답하며, 개발자 커뮤니티의 AI 도입 저항감이 여전함을 보여준다."
+    ]
+  }
+]
