@@ -40,6 +40,15 @@ python3 scripts/scrape_aitimes.py --days 1 --pages 2
 - 주가/투자/재무/소송 기사
 - AI 윤리/사회 논평 (제품 변화 없는 경우)
 - 일반 홍보성 기사
+- **대상 기업 목록에 없는 한국 스타트업/중소기업 단독 기사는 기본적으로 제외**
+
+### 한국 스타트업/중소기업 크로스 체크 규칙
+
+대상 기업 목록(OpenAI, Anthropic, Perplexity, Google, Microsoft, NVIDIA, AWS, Alibaba, Cursor, Qwen, DeepSeek)에 포함되지 않는 한국 스타트업·중소기업 기사가 발견된 경우:
+
+1. 해당 기업/서비스명으로 WebSearch를 실행하여 **해외 주요 매체(TechCrunch, VentureBeat, The Verge, ZDNet, Wired, Reuters, Bloomberg 등)에도 보도되었는지** 크로스 체크합니다.
+2. 해외 매체 **1곳 이상**에서 동일 사건이 보도된 경우에만 포함합니다.
+3. 해외 보도가 확인되지 않으면 제외합니다.
 
 ## 3단계: 본문 확인 (선택)
 

@@ -270,7 +270,7 @@ EDITOR_JS = r"""
             + '                            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">\n'
             + '                                <tr>\n'
             + '                                    <td>\n'
-            + "                                        <h1 style=\"color: #ffffff !important; margin: 0; font-size: 32px; line-height: 1.25; font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; text-align: center;\">AI \ub3d9\ud5a5 \ube0c\ub9ac\ud551 " + escapeHtml(currentDate) + '</h1>\n'
+            + "                                        <h1 style=\"color: #ffffff !important; margin: 0; font-size: 32px; line-height: 1.25; font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; text-align: center;\">AI \ub3d9\ud5a5 \ube0c\ub9ac\ud551</h1>\n"
             + '                                    </td>\n'
             + '                                </tr>\n'
             + '                            </table>\n'
@@ -465,9 +465,6 @@ def transform_articles(raw_articles: list) -> list:
     result = []
     for a in raw_articles:
         lines = []
-        why = a.get("why_relevant", "")
-        if why:
-            lines.append(why)
         for s in a.get("summary", []):
             # summary가 이미 '- '로 시작하면 그대로, 아니면 추가
             text = s.strip()
