@@ -229,5 +229,115 @@
       "- Alibaba Cloud가 Qwen·Wan 모델 패밀리를 기반으로 풀스택 AI 역량을 전 세계 산업에 제공하고 있다.",
       "- Qwen3-32B 기반의 Qwen-SEA-LION-v4가 동남아 시장에 출시되어 200B 미만 오픈소스 모델 중 SEA-HELM 리더보드 1위를 기록했다."
     ]
+  },
+  {
+    "title": "Claude Code 보이스 모드·/loop 명령어·MCP Elicitation 추가",
+    "source": "Anthropic",
+    "published_date": "2026-03-15",
+    "url": "https://releasebot.io/updates/anthropic/claude-code",
+    "why_relevant": "Claude Code에 음성 인터랙션, 반복 자동 모니터링, MCP 중간 입력 다이얼로그 등 주요 기능이 추가됨",
+    "summary": [
+      "- Claude Code에 보이스 모드(/voice, push-to-talk), /loop 명령어(반복 자동 모니터링), MCP elicitation(구조화된 중간 입력 다이얼로그)이 추가되었다.",
+      "- /effort 명령어로 모델 노력 수준 조절이 가능하며, Max/Team/Enterprise 플랜에서 Opus 4.6의 100만 토큰 컨텍스트가 기본 적용된다."
+    ]
+  },
+  {
+    "title": "NVIDIA·Nebius, $20억 투자로 풀스택 AI 클라우드 인프라 파트너십",
+    "source": "NVIDIA Newsroom",
+    "published_date": "2026-03-11",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Nebius-Partner-to-Scale-Full-Stack-AI-Cloud/default.aspx",
+    "why_relevant": "NVIDIA가 $20억을 투자하여 2030년까지 5GW 이상의 AI 컴퓨트 인프라를 구축하는 대규모 파트너십 체결",
+    "summary": [
+      "- NVIDIA가 Nebius에 $20억을 투자하여 차세대 하이퍼스케일 AI 클라우드 인프라를 개발하며, 2030년까지 5GW 이상의 NVIDIA 시스템 배치를 목표로 한다.",
+      "- 엔터프라이즈 AI 배포가 실험에서 프로덕션으로 전환됨에 따라 AI 컴퓨트 인프라 수요가 급증하고 있음을 보여준다."
+    ]
+  },
+  {
+    "title": "Anthropic, DeepSeek·Moonshot AI·MiniMax의 대규모 Claude 증류 공격 폭로",
+    "source": "Time",
+    "published_date": "2026-03-11",
+    "url": "https://time.com/article/2026/03/11/anthropic-claude-disruptive-company-pentagon/",
+    "why_relevant": "중국 AI 기업들이 24,000개 이상의 사기 계정으로 Claude를 대규모 증류한 보안 사건이 폭로됨",
+    "summary": [
+      "- Anthropic이 DeepSeek, Moonshot AI, MiniMax가 24,000개 이상의 사기 계정으로 1,600만 건 이상의 Claude 상호작용을 생성하여 불법 모델 증류를 수행한 증거를 공개했다.",
+      "- DeepSeek은 15만 건 이상의 추론 작업을 집중 타겟했으며, OpenAI도 미국 하원 중국특별위원회에 유사한 '적대적 증류' 혐의를 보고했다."
+    ]
+  },
+  {
+    "title": "Microsoft 3월 패치 튜즈데이 — AI 에이전트 오케스트레이션 프레임워크 보안 취약점 최초 수정",
+    "source": "Windows News",
+    "published_date": "2026-03-12",
+    "url": "https://windowsnews.ai/article/march-2026-patch-tuesday-office-azure-arc-mcp-and-ai-agents-expand-attack-surface.405112",
+    "why_relevant": "AI 에이전트 오케스트레이션 프레임워크의 보안 취약점이 최초로 패치되며 에이전트 보안의 새로운 공격 표면이 부각됨",
+    "summary": [
+      "- Microsoft 3월 패치 튜즈데이에서 78개 취약점 중 6개가 AI 에이전트 오케스트레이션 프레임워크에서 발견되어 최초로 수정되었다.",
+      "- XBOW가 AI 에이전트가 소스코드 접근 없이 9.8등급 치명적 취약점을 식별할 수 있음을 시연하여 AI 기반 취약점 발견의 가속화를 경고했다."
+    ]
+  },
+  {
+    "title": "Google, Docs·Sheets·Slides·Drive에 Gemini 신기능 확대 배포",
+    "source": "TechCrunch",
+    "published_date": "2026-03-10",
+    "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+    "why_relevant": "Google이 Workspace 전반에 Gemini AI를 통합하여 Gmail·Chat·Drive 콘텐츠로부터 문서·시트·슬라이드를 자동 생성",
+    "summary": [
+      "- Google이 Docs, Sheets, Slides, Drive에 Gemini 기반 AI 기능을 추가하여 Gmail·Chat·Drive 콘텐츠로부터 포맷팅된 초안, 슬라이드, 시트를 자동 생성한다.",
+      "- AI Ultra·Pro 구독자 대상 베타로 배포되며, 100만 토큰 컨텍스트와 멀티모달 추론을 갖춘 Gemini 3.1 Pro가 통합을 지원한다."
+    ]
+  },
+  {
+    "title": "Cursor, 연간 매출 $20억 돌파 — $500억 밸류에이션 펀딩 라운드 진행 중",
+    "source": "TechCrunch / Bloomberg",
+    "published_date": "2026-03-12",
+    "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+    "why_relevant": "AI 코딩 어시스턴트 시장 리더 Cursor가 3개월 만에 매출 2배 증가하며 폭발적 엔터프라이즈 성장세를 기록",
+    "summary": [
+      "- Cursor가 연간 매출 $20억을 돌파했으며 3개월 만에 매출이 2배로 증가, $500억 밸류에이션으로 신규 펀딩 라운드를 진행 중이다.",
+      "- 엔터프라이즈 고객이 매출의 약 60%를 차지하며, Claude Code·OpenAI Codex와의 경쟁이 심화되고 있다."
+    ]
+  },
+  {
+    "title": "Qwen 기술 리더 Junyang Lin 사임 — Alibaba 팀 구조조정",
+    "source": "TechCrunch",
+    "published_date": "2026-03-04",
+    "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+    "why_relevant": "중국 최고 오픈소스 AI 팀의 리더십 교체로 Qwen의 향후 방향성에 대한 불확실성이 대두",
+    "summary": [
+      "- Alibaba Qwen 기술 리더 Junyang Lin이 3월 4일 사임했으며, 후속 훈련 책임자 Yu Bowen과 다수 연구원도 이탈했다.",
+      "- Alibaba가 수직 통합된 Qwen 팀을 Alibaba Cloud 통의랩 산하 수평 모듈로 재편하면서 촉발되었으며, 전 Google DeepMind 과학자 Zhou Hao를 후임으로 영입했다."
+    ]
+  },
+  {
+    "title": "AWS Bedrock AgentCore Policy GA — 자연어로 AI 에이전트 보안 정책 관리",
+    "source": "AWS Blog",
+    "published_date": "2026-03-10",
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/",
+    "why_relevant": "AWS가 자연어 기반 AI 에이전트 접근 제어·입력 검증 정책 관리를 GA로 출시하며 에이전트 거버넌스를 강화",
+    "summary": [
+      "- AWS가 Amazon Bedrock AgentCore에서 Policy GA를 출시하여 보안팀이 자연어로 AI 에이전트의 도구 접근 및 입력 검증 규칙을 정의하면 자동으로 Cedar 정책 언어로 변환한다.",
+      "- Amazon Connect Health가 GA로 출시되어 환자 확인, 예약 관리, 의료 문서, 코딩 등 5개 HIPAA 준수 AI 에이전트를 제공한다."
+    ]
+  },
+  {
+    "title": "monday.com, Claude·ChatGPT·Copilot 등 AI 에이전트에 플랫폼 개방",
+    "source": "monday.com",
+    "published_date": "2026-03-11",
+    "url": "https://lasvegassun.com/news/2026/mar/11/mondaycom-welcomes-ai-agents-to-its-platform-marki/",
+    "why_relevant": "엔터프라이즈 업무 플랫폼이 멀티벤더 AI 에이전트를 직접 수용하며 에이전트 네이티브 SaaS 인프라의 등장을 알림",
+    "summary": [
+      "- monday.com이 Claude, ChatGPT, Copilot, Gemini, Perplexity, Cursor, Grok 등 AI 에이전트가 직접 가입·인증·운영할 수 있는 인프라를 발표했다.",
+      "- AI 시스템이 인간 사용자와 함께 자율적으로 워크플로우를 관리하는 에이전트 네이티브 SaaS 플랫폼으로의 전환을 상징한다."
+    ]
+  },
+  {
+    "title": "Galileo Agent Control 출시 — 오픈소스 AI 에이전트 거버넌스 레이어",
+    "source": "Boston Institute of Analytics",
+    "published_date": "2026-03-13",
+    "url": "https://bostoninstituteofanalytics.org/blog/agentic-ai-news-roundup-7-13-march-2026-market-growth-enterprise-adoption-new-ai-agents/",
+    "why_relevant": "AI 에이전트 행동 표준화를 위한 최초의 오픈소스 거버넌스 레이어가 출시되며 에이전트 보안·관리 인프라 수요 증가",
+    "summary": [
+      "- Galileo가 Agent Control을 출시하여 엔터프라이즈 AI 에이전트 배포에서 행동 표준을 수립하는 오픈소스 거버넌스 레이어를 제공한다.",
+      "- 글로벌 에이전틱 AI 시장이 2026년 $91.4억에서 2034년 $1,390억 이상으로 성장(CAGR 40.5%)할 것으로 전망되며, 에이전트 모니터링·보안·관리 인프라 수요가 급증하고 있다."
+    ]
   }
 ]
