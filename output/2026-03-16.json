@@ -141,5 +141,93 @@
       "- OpenAI 이사회 의장 브렛 테일러가 AI 코딩 도구의 존재에도 직접 코드 작성을 선호하며 AI에 코드를 맡기는 것이 '감정적으로 어렵다'고 밝혔다.",
       "- GDC 설문에서도 응답자 7%만이 생성형 AI가 업계에 긍정적이라 답하며, 개발자 커뮤니티의 AI 도입 저항감이 여전함을 보여준다."
     ]
+  },
+  {
+    "title": "Microsoft M365 E7 Frontier Suite 발표 — Copilot·Agent 365·Claude 통합, $99/user",
+    "source": "Microsoft Official Blog",
+    "published_date": "2026-03-09",
+    "url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/",
+    "why_relevant": "Microsoft가 Copilot, Agent 365, Claude를 통합한 엔터프라이즈 AI 스위트를 출시하며 에이전트 거버넌스 플랫폼을 본격화",
+    "summary": [
+      "- Microsoft가 M365 E7 Frontier Suite($99/user)를 발표하여 M365 E5, Copilot, Agent 365를 통합하고 Claude를 OpenAI 모델과 함께 제공한다.",
+      "- Agent 365는 5월 1일 $15/user로 출시되며, 수천만 개의 AI 에이전트를 관찰·거버넌스·보안하는 통합 컨트롤 플레인을 제공한다."
+    ]
+  },
+  {
+    "title": "Microsoft Copilot Cowork 출시 — Anthropic 에이전틱 모델 기반 멀티스텝 업무 자동화",
+    "source": "Microsoft 365 Blog",
+    "published_date": "2026-03-09",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+    "why_relevant": "Microsoft가 Anthropic의 에이전틱 모델을 M365에 통합하여 엔터프라이즈급 멀티스텝 작업 자동화를 제공",
+    "summary": [
+      "- Copilot Cowork가 Anthropic의 에이전틱 모델과 Microsoft 365를 결합하여 멀티스텝 업무 자동화를 엔터프라이즈 수준으로 제공한다.",
+      "- 현재 리서치 프리뷰 단계이며 3월 말 Frontier 프로그램을 통해 더 넓은 범위로 제공될 예정이다."
+    ]
+  },
+  {
+    "title": "Google DeepMind Gemini 3 Flash 출시 — GPQA Diamond 90.4%, Flash 속도에 Pro급 추론",
+    "source": "Google DeepMind Blog",
+    "published_date": "2026-03-12",
+    "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+    "why_relevant": "Google이 Flash급 속도와 비용으로 Pro급 추론 성능(GPQA 90.4%)을 달성하는 모델을 출시",
+    "summary": [
+      "- Google DeepMind가 Gemini 3 Flash를 출시하여 PhD 수준 추론 벤치마크에서 GPQA Diamond 90.4%, MMMU Pro 81.2%를 기록했다.",
+      "- Gemini 앱과 Search의 AI Mode에서 사용 가능하며, Gemini 3 Pro에 필적하는 성능을 Flash급 속도와 비용으로 제공한다."
+    ]
+  },
+  {
+    "title": "Anthropic Claude Partner Network 출범 — $1억 투자로 엔터프라이즈 생태계 구축",
+    "source": "Anthropic Blog",
+    "published_date": "2026-03-12",
+    "url": "https://www.anthropic.com/news",
+    "why_relevant": "Anthropic이 1억 달러 규모의 파트너 네트워크를 출범하여 엔터프라이즈 Claude 채택 인프라를 강화",
+    "summary": [
+      "- Anthropic이 1억 달러를 투자하여 Claude Partner Network를 출범했으며, 파트너 조직에 교육·기술 지원·공동 시장 개발을 제공한다.",
+      "- 구조화된 파트너 생태계를 통해 엔터프라이즈 Claude 채택을 가속화하는 것이 목표이다."
+    ]
+  },
+  {
+    "title": "Cursor Automations 출시 — Slack·GitHub·PagerDuty 이벤트 기반 상시 코딩 에이전트",
+    "source": "Cursor Changelog",
+    "published_date": "2026-03-05",
+    "url": "https://cursor.com/changelog",
+    "why_relevant": "Cursor가 IDE를 넘어 이벤트 기반 자율 소프트웨어 개발 플랫폼으로 진화하며 에이전틱 코딩 시장을 확대",
+    "summary": [
+      "- Cursor Automations가 Slack, Linear, GitHub, PagerDuty, Webhook 이벤트로 트리거되는 상시 에이전트를 클라우드 샌드박스에서 실행한다.",
+      "- 에이전트에 메모리 도구가 탑재되어 과거 실행에서 학습하고 지속적으로 개선되며, Cursor가 IDE에서 자율 개발 플랫폼으로 전환하는 전환점이다."
+    ]
+  },
+  {
+    "title": "NVIDIA·Thinking Machines Lab, 기가와트급 Vera Rubin 파트너십 발표",
+    "source": "NVIDIA Blog",
+    "published_date": "2026-03-10",
+    "url": "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/",
+    "why_relevant": "차세대 Vera Rubin 시스템의 첫 기가와트급 파트너십으로 프론티어 모델 훈련 인프라 대규모 확장 신호",
+    "summary": [
+      "- NVIDIA와 Thinking Machines Lab이 차세대 Vera Rubin 시스템 1기가와트 이상 배치를 위한 다년간 전략적 파트너십을 발표했다.",
+      "- NVIDIA가 Thinking Machines Lab에 대규모 투자를 단행하여 프론티어 모델 훈련을 위한 인프라 확장을 지원한다."
+    ]
+  },
+  {
+    "title": "AWS Strands Labs 출범 — 실험적 에이전틱 AI 프로젝트 전담 조직",
+    "source": "AWS News Blog",
+    "published_date": "2026-03-02",
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/",
+    "why_relevant": "AWS가 에이전틱 AI 전담 실험 조직을 신설하고 OpenAI와 $1,000억 컴퓨트 계약을 연장",
+    "summary": [
+      "- AWS가 Strands Labs를 신설하여 Robots, Robots Sim, AI Functions 등 3개 실험적 에이전틱 AI 프로젝트를 시작했다.",
+      "- OpenAI와 AWS가 $1,000억 규모의 컴퓨트 용량 계약을 연장하고, Amazon Bedrock 기반 OpenClaw를 Lightsail에서 제공한다."
+    ]
+  },
+  {
+    "title": "Alibaba Cloud, Qwen 생태계 글로벌 확장 — Qwen-SEA-LION 동남아 시장 1위",
+    "source": "Alibaba Cloud",
+    "published_date": "2026-03-13",
+    "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/media-outreach-newswire/alibaba-cloud-accelerates-worldwide-ai-innovation-and-adoption-across-industries/2299390",
+    "why_relevant": "Alibaba Cloud가 Qwen 모델 패밀리를 글로벌 확장하며 동남아 시장에서 오픈소스 모델 1위를 차지",
+    "summary": [
+      "- Alibaba Cloud가 Qwen·Wan 모델 패밀리를 기반으로 풀스택 AI 역량을 전 세계 산업에 제공하고 있다.",
+      "- Qwen3-32B 기반의 Qwen-SEA-LION-v4가 동남아 시장에 출시되어 200B 미만 오픈소스 모델 중 SEA-HELM 리더보드 1위를 기록했다."
+    ]
   }
 ]
